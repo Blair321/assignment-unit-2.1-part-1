@@ -123,6 +123,7 @@ describe('Automated tests', function () {
             if (adventurous) {
                 expect(result).to.equal('Adventures are great!');
             } else {
+                debugger
                 expect(result).to.equal('How about we stay home?');
             }
         });
