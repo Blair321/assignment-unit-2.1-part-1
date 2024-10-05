@@ -60,11 +60,7 @@ if( adventurous ){ console.log( 'Adventures are great');
 //      set `diceRoll` to be "Roll the dice!"
 //      Console log the value of `diceRoll`
 let diceroll = 'Try again later';
- if (luckyNumber === 2 ) { console.log( 'roll the dice' );
 if (adventurous && luckyNumber === 2 ) {console.log( 'roll the dice' );
-
-  
-} 
     
   }
  else { console.log( 'try again later' );
@@ -79,7 +75,6 @@ if (adventurous && luckyNumber === 2 ) {console.log( 'roll the dice' );
 //      set `petStatus` to the value of "I have enough pets" 
 //      if the value of `pets` is greater than the value of `allowedPets`.
 //      set `petStatus` to the value of "Oh no, I have too many pets!"
-let petstatus = 
 
 // STRETCH GOALS:
 
